@@ -21,8 +21,8 @@
                 <div id="navbarMenuHeroA" class="navbar-menu">
                     <div class="navbar-end">
                         <a class="navbar-item is-active">Início</a>
-                        <a class="navbar-item">Serviços</a>
-                        <a class="navbar-item">Contato</a>
+                        <a class="navbar-item" href="#servicos">Serviços</a>
+                        <a class="navbar-item" href="#contato">Contato</a>
                         <a class="navbar-item" href= "buscaadvogados">Painel</a>
                     </div>
                 </div>
@@ -41,45 +41,30 @@
         </div>
     </div>
 </section>
-<section class="section">
+<section  id = "servicos" class="section">
   <div class="container">
       <h1 class="title has-text-centered">Nossos Serviços</h1>
       <div class="columns is-multiline">
           <div class="column is-one-third">
               <div class="card">
-                  <div class="card-image">
-                      <figure class="image is-4by3">
-                          <img src="URL_DA_IMAGEM_DO_SERVICO" alt="Imagem do serviço">
-                      </figure>
-                  </div>
                   <div class="card-content">
-                      <h2 class="title is-4">Consultoria Jurídica</h2>
+                      <h2 class="title is-4  mb-5">Consultoria Jurídica</h2>
                       <p class="subtitle is-6">Oferecemos consultoria jurídica para ajudá-lo a entender e navegar pelo complexo sistema jurídico, entre em contato para saber mais.</p>
                   </div>
               </div>
           </div>
           <div class="column is-one-third">
               <div class="card">
-                  <div class="card-image">
-                      <figure class="image is-4by3">
-                          <img src="URL_DA_IMAGEM_DO_SERVICO" alt="Imagem do serviço">
-                      </figure>
-                  </div>
                   <div class="card-content">
-                      <h2 class="title is-4">Representação em Tribunal</h2>
+                      <h2 class="title is-4 mb-5">Representação em Tribunal</h2>
                       <p class="subtitle is-6">Nossos advogados experientes podem representá-lo em uma variedade de questões, incluindo litígios civis, criminais e comerciais.</p>
                   </div>
               </div>
           </div>
           <div class="column is-one-third">
               <div class="card">
-                  <div class="card-image">
-                      <figure class="image is-4by3">
-                          <img src="URL_DA_IMAGEM_DO_SERVICO" alt="Imagem do serviço">
-                      </figure>
-                  </div>
                   <div class="card-content">
-                      <h2 class="title is-4">Serviços de Mediação</h2>
+                      <h2 class="title is-4 mb-5">Serviços de Mediação</h2>
                       <p class="subtitle is-6">Nós fornecemos serviços de mediação para ajudar a resolver disputas de maneira eficiente e eficaz, sem a necessidade de ir a tribunal.</p>
                   </div>
               </div>
@@ -89,7 +74,7 @@
   </div>
 </section>
 
-<section class="section">
+<section  id = "contato" class="section">
   <div class="container">
       <h1 class="title has-text-centered">Contato</h1>
       <div class="columns is-centered">
