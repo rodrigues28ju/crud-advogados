@@ -79,7 +79,7 @@
       <h1 class="title has-text-centered">Contato</h1>
       <div class="columns is-centered">
           <div class="column is-half">
-              <form action="URL_DO_SEU_FORMULARIO" method="post">
+              <form action="" method="post">
                   <div class="field">
                       <label class="label">Nome</label>
                       <div class="control">
@@ -111,7 +111,7 @@
 <footer class="footer">
   <div class="content has-text-centered">
       <p>
-          <strong>Javas Advocacia</strong> por <a href="URL_DO_SEU_SITE">Juliana</a>. O código fonte está licenciado
+          <strong>Javas Advocacia</strong> por <a href="">Juliana</a>. O código fonte está licenciado
           <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
       </p>
   </div>
